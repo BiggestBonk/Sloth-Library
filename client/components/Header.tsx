@@ -1,7 +1,7 @@
 export default function Header() {
   return (
     <header>
-      <h1>Sloth Libraries</h1>
+      <h1 className="head">Sloth Libraries</h1>
     </header>
   )
 }
