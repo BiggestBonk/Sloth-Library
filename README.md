@@ -8,7 +8,7 @@ As a user I want to be to check out books by entering the id of the selected boo
 
 * Mutation functionality to handle getting books out
 * Routing 
-* API calls
+* Database calls
 * Styling
 * Data
 * Models/Interfaces
