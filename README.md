@@ -10,7 +10,6 @@ As a user I want to be to check out books by entering the id of the selected boo
 * Routing 
 * Database calls
 * Styling
-* Data
 * Models/Interfaces
 
 
