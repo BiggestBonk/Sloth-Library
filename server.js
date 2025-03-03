@@ -53,7 +53,7 @@ var knexfile_default = {
 };
 
 // server/db/connection.ts
-var env = process.env.NODE_ENV || "development";
+var env = process.env.NODE_ENV || "production";
 var connection = knex(knexfile_default[env]);
 var connection_default = connection;
 
