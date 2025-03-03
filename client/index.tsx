@@ -10,7 +10,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const queryClient = new QueryClient()
   createRoot(document.getElementById('app') as HTMLElement).render(
     <QueryClientProvider client={queryClient}>
-      <RouterProvider router={router} />
+      ,
+      <RouterProvider router={router} />,
     </QueryClientProvider>,
   )
 })
